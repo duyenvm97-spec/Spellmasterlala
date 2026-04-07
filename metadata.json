@@ -1,0 +1,5 @@
+{
+  "name": "SpellMaster Movers",
+  "description": "An interactive English learning app for Movers level students to practice spelling, pronunciation, and vocabulary through fun activities.",
+  "requestFramePermissions": ["microphone"]
+}
